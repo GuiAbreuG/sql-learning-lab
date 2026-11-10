@@ -16,13 +16,13 @@ This repository contains my SQL studies, exercises, queries, and practical proje
 
 ### SQL Fundamentals
 
-- [ ] SELECT
-- [ ] WHERE
-- [ ] ORDER BY
-- [ ] DISTINCT
-- [ ] LIMIT
-- [ ] Comparison and logical operators
-- [ ] NULL values
+- [x] SELECT
+- [x] WHERE
+- [x] ORDER BY
+- [x] DISTINCT
+- [x] LIMIT
+- [x] Comparison and logical operators
+- [x] NULL values
 
 ### Data Manipulation
 
