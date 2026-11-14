@@ -26,9 +26,9 @@ This repository contains my SQL studies, exercises, queries, and practical proje
 
 ### Data Manipulation
 
-- [ ] INSERT
-- [ ] UPDATE
-- [ ] DELETE
+- [x] INSERT
+- [x] UPDATE
+- [x] DELETE
 
 ### Aggregate Functions
 
