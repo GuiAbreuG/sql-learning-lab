@@ -32,8 +32,8 @@ This repository contains my SQL studies, exercises, queries, and practical proje
 
 ### Aggregate Functions
 
-- [ ] COUNT
-- [ ] SUM
+- [x] COUNT
+- [x] SUM
 - [ ] AVG
 - [ ] MIN and MAX
 - [ ] GROUP BY
