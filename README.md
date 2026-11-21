@@ -34,7 +34,7 @@ This repository contains my SQL studies, exercises, queries, and practical proje
 
 - [x] COUNT
 - [x] SUM
-- [ ] AVG
+- [x] AVG
 - [ ] MIN and MAX
 - [ ] GROUP BY
 - [ ] HAVING
